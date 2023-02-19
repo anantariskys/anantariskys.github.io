@@ -847,3 +847,11 @@ section {
   color: #eaebf0;
 }
 
+@media (max-width: 1199px) {
+  #footer {
+    position: static;
+    width: auto;
+    padding-right: 20px 15px;
+  }
+}
+
